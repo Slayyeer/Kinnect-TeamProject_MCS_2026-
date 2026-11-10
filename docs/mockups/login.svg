@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="640" viewBox="0 0 360 640" font-family="Arial, sans-serif"><rect width="360" height="640" fill="#fff" stroke="#333" stroke-width="2"/>
+<text x="180" y="120" font-size="32" text-anchor="middle" font-weight="bold">Kinnect</text>
+<text x="180" y="150" font-size="13" text-anchor="middle" fill="#666">Смотрим вместе</text>
+<rect x="40" y="210" width="280" height="44" rx="6" fill="none" stroke="#999"/><text x="52" y="237" font-size="14" fill="#999">Почта</text>
+<rect x="40" y="270" width="280" height="44" rx="6" fill="none" stroke="#999"/><text x="52" y="297" font-size="14" fill="#999">Пароль</text>
+<rect x="40" y="340" width="280" height="48" rx="6" fill="#333"/><text x="180" y="370" font-size="16" fill="#fff" text-anchor="middle">Войти</text>
+<text x="180" y="420" font-size="14" text-anchor="middle" text-decoration="underline">Зарегистрироваться</text>
+<text x="180" y="450" font-size="13" text-anchor="middle" fill="#666" text-decoration="underline">Забыли пароль?</text>
+</svg>

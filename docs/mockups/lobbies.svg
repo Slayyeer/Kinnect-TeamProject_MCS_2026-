@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="640" viewBox="0 0 360 640" font-family="Arial, sans-serif"><rect width="360" height="640" fill="#fff" stroke="#333" stroke-width="2"/>
+<rect x="0" y="0" width="360" height="56" fill="#eee"/><text x="16" y="35" font-size="20" font-weight="bold">Kinnect</text><circle cx="328" cy="28" r="16" fill="none" stroke="#333"/><text x="328" y="33" font-size="12" text-anchor="middle">Я</text>
+<text x="16" y="90" font-size="16" font-weight="bold">Мои лобби</text>
+<rect x="16" y="104" width="328" height="64" rx="8" fill="none" stroke="#999"/><text x="28" y="130" font-size="15">Киновечер</text><text x="28" y="152" font-size="12" fill="#666">3 участника · закрытое</text>
+<rect x="16" y="178" width="328" height="64" rx="8" fill="none" stroke="#999"/><text x="28" y="204" font-size="15">Сериал по пятницам</text><text x="28" y="226" font-size="12" fill="#666">2 участника · открытое</text>
+<text x="16" y="282" font-size="16" font-weight="bold">Друзья</text>
+<circle cx="36" cy="316" r="16" fill="none" stroke="#333"/><text x="62" y="321" font-size="14">Друг 1 · в сети</text>
+<circle cx="36" cy="356" r="16" fill="none" stroke="#333"/><text x="62" y="361" font-size="14">Друг 2</text>
+<rect x="16" y="560" width="328" height="52" rx="8" fill="#333"/><text x="180" y="592" font-size="16" fill="#fff" text-anchor="middle">+ Создать лобби</text>
+</svg>
