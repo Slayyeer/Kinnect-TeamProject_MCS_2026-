@@ -1,0 +1,24 @@
+# зависимости и сборки
+node_modules/
+dist/
+build/
+android/.gradle/
+android/app/build/
+android/local.properties
+
+# секреты: НИКОГДА не коммитить
+*.jks
+*.keystore
+keystore.properties
+*-service-account*.json
+service-account*.json
+.env
+.env.*
+
+# служебные файлы
+.firebase/
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
